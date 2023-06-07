@@ -11,3 +11,6 @@ initializeApp({
 
 const db = getFirestore();
 ```
+    instale o express no terminal, o terminal pode ser acessado pelo vs code ou pelo cmd na barra de pesquisa do windows
+    
+    npm install express --save
